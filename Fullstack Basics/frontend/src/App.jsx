@@ -18,7 +18,7 @@ function App() {
 
    return (
       <>
-         <h1>My First Fullstack App</h1>
+         <h1>My First FullStack App</h1>
 
          <h2>Let's enjoy some Programming Jokes!</h2>
          <h3>😂😂😂</h3>
